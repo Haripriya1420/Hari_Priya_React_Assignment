@@ -19,4 +19,4 @@ This is a full-stack web application built with React, Material-UI, and other te
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Haripriya1420/Hari_Priya_React_Assignment.git
+   git clone https://github.com/Haripriya1420/Hari_Priya_React_Assignment
