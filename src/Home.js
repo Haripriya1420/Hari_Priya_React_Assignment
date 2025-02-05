@@ -1,10 +1,10 @@
-// src/Home.js
+
 
 import React from 'react';
 import { GoogleLogin } from 'react-google-login';
 import { useAuth } from './AuthContext';
 
-// Google client ID (replace with your own client ID)
+
 const CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID';
 
 const Home = () => {
